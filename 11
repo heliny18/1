@@ -1,0 +1,53 @@
+#content {
+	float: right;
+	width: 510px;
+}
+ 
+.post {
+	margin-bottom: 20px;
+}
+ 
+.post .title {
+	padding: 0 20px;
+}
+ 
+.post .story {
+	padding: 0 20px;
+}
+ 
+.post .meta {
+	padding: 5px 20px;
+	background: url(images/img09.gif) repeat-x;
+}
+ 
+
+
+.post .meta p {
+	margin: 0;
+	font-size: 77%;
+}
+ 
+.boxed .title {
+	height: 32px;
+	margin: 0;
+	padding: 8px 0 0 20px;
+	background: url(images/img08.jpg) no-repeat;
+	letter-spacing: -1px;
+	color: #FF3300;
+}
+ 
+.boxed .story {
+	padding: 20px;
+	border: 1px solid #FF8D17;
+}
+ 
+.boxed .meta {
+	padding: 5px 10px;
+	background: #FF8D17;
+	color: #FFFFFF;
+}
+ 
+.boxed .meta a {
+	color: #FFFFFF;
+}
+ 
